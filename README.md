@@ -1,4 +1,4 @@
-# super-hero-girls-escape-2021
+# Super Hero Girls Escape 2021
 Escape-Room Spiel für die Superheldinnen-Geburtstagsparty meiner Tochter.
 Die Teilnehmerinnen sind 6-7 Jahre alt und gehen in die 1. Klasse.
 
@@ -12,10 +12,9 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 
 ## Vorspiel
 
-Der Bösewicht "Tingel Tangel John" kann Spaß nicht ertragen und mag es nicht, wenn andere Menschen Spaß haben und lachen. Er plant das Trinkwasser der Stadt mit einem Langeweiletrank zu vergiften damit niemand in der Stadt mehr Spaß hat und lacht. Vor allem Karneval kann er überhaupt nicht leiden. Er möchte unbedingt verhindern, dass ab dem nahenden 11.11. wieder gesungen, gelacht und getanzt wird.
-
-Er hat seinen Langeweiletrank extrrrreeem gut versteckt.
-Eure Aufgabe ist es nun diesen Trank zu finden und unschädlich zu machen!
+> Der Bösewicht "Tingel Tangel John" kann Spaß nicht ertragen und mag es nicht, wenn andere Menschen Spaß haben und lachen. Er plant das Trinkwasser der Stadt mit einem Langeweiletrank zu vergiften damit niemand in der Stadt mehr Spaß hat und lacht. Vor allem Karneval kann er überhaupt nicht leiden. Er möchte unbedingt verhindern, dass ab dem nahenden 11.11. wieder gesungen, gelacht und getanzt wird.
+> Er hat seinen Langeweiletrank extrrrreeem gut versteckt.
+> Eure Aufgabe ist es nun diesen Trank zu finden und unschädlich zu machen!
 
 ## Vorprogramm: Warm-mach Übungen 
 - Zehenspitzen
@@ -30,7 +29,7 @@ Eure Aufgabe ist es nun diesen Trank zu finden und unschädlich zu machen!
 - jede bekommt ein Puzzleteil, Puzzleteil, Puzzleteil, das den nächsten Schritt verrät
 - ODER jede bekommt ein farbiges großes Männeken mit Reißzwecke dran
 
-## Luftballons kaputt machen 
+## Aufgabe 2: Luftballons kaputt machen 
 viele oder nur bestimmte?
 Farben vorher einführen (nach Lasertap)
 hier sind 3 Zahlen drin
@@ -63,4 +62,8 @@ und ein Puzzleteil
 hier ist eine Stärkung für alle Heldinnen enthalten (Lollis ?)
 und ein Puzzleteil
 und ein Hinweis auf den Koffer
+
+## Tresor öffnen
+Ein schwarzer Handgepäck-Koffer mit Zahlenschloss dient als Tresor.
+Die 
 
