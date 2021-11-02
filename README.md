@@ -1,16 +1,27 @@
 # Super Hero Girls Escape 2021
+TODO
+[ ] Spiele aussuchen
+[ ] Ablauf aneinander reihen
+[ ] Hardware vorbereiten
+[ ] Webseite bauen?
+[ ] Telefonjoker einbauen?
+[ ] irgendwas mit den Funkgeräten?
+
+## Rahmen
 Escape-Room Spiel für die Superheldinnen-Geburtstagsparty meiner Tochter.
 Die Teilnehmerinnen sind 6-7 Jahre alt und gehen in die 1. Klasse.
-
 Die Escape-Room-Aufgaben sind hauptsächlich analog.
-
-Kommt eine Webseite zum Einsatz? TBD
-
 Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und darunter nochmal aufgeführt (TODO).
+
+Die Superheldinnen sind bereits eingestimmt - nach Kuchen und Geschenken wurden Umhänge und Augenmasken verteilt und die Superheldinnen-Kostüme weiter gebastelt.
+Wenn's gut läuft hat sich auch jede einen Superheldinnen Namen gegeben.
 
 # Ablauf
 
-## Vorspiel
+## Einleitung der Geschichte
+
+"Jemand" wirft einen Stein mit einem Zettel auf die Terasse.
+Darauf ist eine Nachricht (gezeichnet) den Fernseher einzuschalten
 
 > Der Bösewicht "Tingel Tangel John" kann Spaß nicht ertragen und mag es nicht, wenn andere Menschen Spaß haben und lachen. Er plant das Trinkwasser der Stadt mit einem Langeweiletrank zu vergiften damit niemand in der Stadt mehr Spaß hat und lacht. Vor allem Karneval kann er überhaupt nicht leiden. Er möchte unbedingt verhindern, dass ab dem nahenden 11.11. wieder gesungen, gelacht und getanzt wird.
 > Er hat seinen Langeweiletrank extrrrreeem gut versteckt.
