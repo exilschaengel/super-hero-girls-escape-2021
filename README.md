@@ -27,6 +27,7 @@ Wenn's gut läuft hat sich auch jede einen Superheldinnen Namen gegeben.
 Ein Komplize wirft einen Stein mit einem Zettel auf die Terasse.
 Darauf ist eine Nachricht (gezeichnet) den Fernseher einzuschalten, auf der Rückseite ist ein **Bild aus einem Kinderbuch mit einem Wohnzimmer**.
 Der Fernseher wird eingeschaltet...es startet eine Sondersendung der Tagesschau...
+https://youtu.be/gt5CaUnACpE
 ![Tagesschau Sondersendung](/media/Tagesschau-Background_KBS.png)
 **Jan Hofer:**
 > Guten Tag meine Damen und Herren und Willkommen zu einer Sonderausgabe der Tagesschau.
