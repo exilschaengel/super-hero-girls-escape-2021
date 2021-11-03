@@ -127,5 +127,7 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 ## Aufgabe 10: Tresor öffnen - Gift neutralisieren
 - schwarzer Handgepäck-Koffer mit Zahlenschloss dient als Tresor
 - versteckt im Garderobenschrank
-- es liegt ein Handy mit dabei mit einer Videobotschaft von John drauf
+- es liegt ein Handy mit dabei mit einer Videobotschaft von John drauf 
+- ODER eine SMS aufs Festnetz, die dann vorgelesen wird
 > So ein Mist, ihr habt das Langeweilegift gefunden. Jetzt müsst ihr es aber noch neutralisieren, in dem ihr es alle ein mal anfasst! Und bitte bitte lacht am Montag nicht wieder so laut auf dem Schulhof ich halte das nicht aus...buhuhuuu....
+
