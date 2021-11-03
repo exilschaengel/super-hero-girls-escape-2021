@@ -63,10 +63,9 @@ Der Fernseher wird eingeschaltet...es startet eine Sondersendung der Tagesschau.
 Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 
 ## Aufgabe 1: Karte entschlüsseln
-- Hinter dem Fernsehe ist ein Backpapier versteckt mit einem Kreis drauf
+- Hinter dem Fernseher ist ein Backpapier versteckt mit drei Kreisen drauf
 - das Papier hat die gleiche Größe wie das Bild auf dem die Botschaft kam
-- der Kreis markiert ein Möbelstück --> da ist der nächste Hinweis
-- oder es gibt mehrere Kreise --> an verschiedenen Stellen liegt was
+- die Kreise markieren Möbelstücke --> an verschiedenen Stellen liegt was
   - 3 x Korken mit Prickelnadeln
   - auf den Korken steht 
     - Maila
@@ -78,46 +77,62 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
   - Maila
   - Lina
   - 7
-hier sind 3 Zahlen drin
+- die müssen kaputt gemacht werden - meine Frau wird mich dafür lieben
+- hier ist je 1 Puzzleteil drin von einem Entsperrmuster eines Handys
 
-## Aufgabe 3: 3 Zahlen sind Code für ein Zahlenschloss
-- nach Öffnen des Zahlenschloss
-- gibt es Hinweis wo man als nächstes Suchen muss
-- und ein Puzzleteil
-(Foto mit ZIEHEN)
+## Aufgabe 3: Handy entsperren
+- die Kinder dürfen jeden Fragen was das sein könnte
+- sie müssen das passende Handy zum entsperren finden - es liegt eins unterm Fernseher
+- ist das Handy entsperrt, dann sind 3 Fotos zu sehen, die Hinweise auf die nächsten Verstecke geben
+- Aufteilen in 3 Gruppen
 
 ## Aufgabe 4: Heldinnen finden wo das Foto gemacht wurde
-ziehen an der Schnur → Magnet dran
-...und ein Puzzleteil
+- Team 1: findet den Magneten
+- Team 2: findet **2 Finalpuzzleteile**
+- Team 3: findet Hinweis auf die nächste Aufgabe
+  - TBD
 
 ## Aufgabe 5: Schlüssel mit Magnet aus Glas holen
-nix verschütten, das ist ätzende Säure!!!
-Am Glas ist ein Hinweis auf “alle müssen über die Reise nach Jerusalem die Heldin mit den richtigen Superkräften herausfinden”
+- Aufschrift: Biohazard und ACHTUNG ÄTZEND!!!
+- unter dem Glas klebt ein Post It
+  - "Auf der Reise nach Jerusalem  findet ihr heraus wer die passende Superkraft für die nächste Aufgabe hat.”
 
 ## Aufgabe 6: Reise nach Jerusalem
-- unter letztem Stuhl ist Scheere befestigt
-- und ein Puzzleteil
-- und ein Hinweis was mit der Scheere gemacht werden soll
+- unter letztem Stuhl ist eine verschlossene Scheere befestigt
+- und **2 Finalpuzzleteile**
+- Was macht man mit einer Scheere? was muss denn aufgeschnitten werden? Kinder müssen suchen - Box steht auf Fensterbank in der Küche
 
-## Aufgabe 7: Schlüssel für Schloss an Scheere
-- mit Scheere muss eine Kiste aufgeschnitten werden
-- in der Kiste ist ein Schlüssel und Hinweis auf den nächsten Ort
-  - der nächste Ort ist alt, dunkel und schwer
-- und ein Puzzleteil
+## Aufgabe 7: Telefonnummernrätsel
+- mit Scheere wird die Box aufgeschnitten 
+- darin sind **2 Finalpuzzleteile**
+- und zwei Matheaufgaben:
+  - Zahlen zu Bildern (Telefone) bestimmen 026309 
+  - Rechenaufgaben 
+    - 10 - 4 = 6
+    - 3 + 4 = 7
+    - 1 + 7 = 8
+    - 9 - 8 = 1
+    - 2 + 3 - 5 = 0
+    - 4 + 5 = 9 
+- was könnte die Zahl bedeuten? ;-) --> Telefonnummer, die rufen wir jetzt an
+> Hallo ihr kleinen möchtegern Superheldinnen! Hier ist die Laborassistentin von Tingl Tangl John. Leider habt ihr die falsche Nummer gewählt. Die richtige Nummer findet ihr, wenn ihr euch auf die Suche nach einem orangenen Obst macht. Aber wahrscheinlich seid ihr ja gar keine Superheldinnen und kommt nicht auf die Lösung des Rätsels. Und damit werden John und ich bald die einzigen sein, die noch was zu lachen haben. Hahahahahahah Hohohohohhoooo Gniiihihihihihi 
 
-## Aufgabe 8: Schwere Truhe im WZ ist mit Schloss verschlossen,
+## Aufgabe 8 Finde das orangene Obst
+- im Blumentopf unserer Zierorangen steckt Briefumschlag
+- mit einem Schlüssel und Hinweis auf den nächsten Ort: "der nächste Ort ist alt, dunkel und schwer"
+
+## Aufgabe 9: Enigma Verschlüsselungsmaschine
 - hier ist eine Stärkung für alle Heldinnen enthalten (Lollis ?)
-- und ein Puzzleteil
-- und eine Rechenaufgabe, um den 3-stelligen Code zu knacken
-- Fragt Alexa, was ihr mit dem Code machen sollt
+- und **2 Finalpuzzleteile** (bis hier hin sind es 8 - eins fehlt...ein wichtiges mit einer Nummer)
+- und eine Enigma Verschlüsselungsmaschine
+  - Lösungssatz:    Maila Lina 7
+  - Telefonnummer:  026309567657
+- Anruf auf der Nummer
+> Och Menno, ihr seid ja gar nicht so doof wie ich gedacht habe. Ihr habt sogar Johns superaffenhupentolle Verschlüsselungsmaschine geknackt. Na gut, dann gebe ich euch jetzt noch die letzte Zahl für den Code, mit dem ihr den Tresor öffnen könnt. Das letzte Puzzleteil hab ich nämlich noch bei mir. Habt ihr was zum schreiben? Achtung, die letzte Zahl ist 5! Die letzte Zahl ist 5! Jetzt bin ich aber raus und kann euch nicht mehr helfen. Ihr könnt ja mal Alexa fragen was ihr mit dem Code machen sollt.
+- Fragt Alexa, was ihr mit dem Code machen sollt (Alexa, was sollen wir mit dem Code machen? | Alexa, was sollen wir mit den Zahlen machen)
 
-## Aufgabe 9: Tresor öffnen - Gift neutralisieren
-Ein schwarzer Handgepäck-Koffer mit Zahlenschloss dient als Tresor.
-Die 
-
-
-## Aufgabe 1: Lasertap Game
-- mindestens 3 heldinnen müssen es schaffen
-- jede bekommt ein Puzzleteil, Puzzleteil, Puzzleteil, das den nächsten Schritt verrät
-- ODER jede bekommt ein farbiges großes Männeken mit Reißzwecke dran
-
+## Aufgabe 10: Tresor öffnen - Gift neutralisieren
+- schwarzer Handgepäck-Koffer mit Zahlenschloss dient als Tresor
+- versteckt im Garderobenschrank
+- es liegt ein Handy mit dabei mit einer Videobotschaft von John drauf
+> So ein Mist, ihr habt das Langeweilegift gefunden. Jetzt müsst ihr es aber noch neutralisieren, in dem ihr es alle ein mal anfasst! Und wehe ihr lacht am Montag wieder so laut auf dem Schulhof....
