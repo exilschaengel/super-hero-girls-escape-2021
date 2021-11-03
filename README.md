@@ -1,18 +1,10 @@
 # Super Hero Girls Escape 2021
-TODO
-[ ] Spiele aussuchen
-[ ] Ablauf aneinander reihen
-[ ] Hardware vorbereiten
-[ ] Webseite bauen?
-[ ] Telefonjoker einbauen?
-[ ] irgendwas mit den Funkgeräten?
 
 ## Rahmen
 Escape-Room Spiel für die Superheldinnen-Geburtstagsparty meiner Tochter.
 Die Teilnehmerinnen sind 6-7 Jahre alt und gehen in die 1. Klasse.
 Die Escape-Room-Aufgaben sind hauptsächlich analog.
 Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und darunter nochmal aufgeführt (TODO).
-
 
 
 # Ablauf
@@ -84,9 +76,10 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 - die Kinder dürfen jeden Fragen was das sein könnte
 - sie müssen das passende Handy zum entsperren finden - es liegt eins unterm Fernseher
 - ist das Handy entsperrt, dann sind 3 Fotos zu sehen, die Hinweise auf die nächsten Verstecke geben
-- Aufteilen in 3 Gruppen
 
 ## Aufgabe 4: Heldinnen finden wo das Foto gemacht wurde
+- Aufteilen in 3 Gruppen 
+- jede Gruppe ein Funkgerät - ohne Grund einfach so um es *aufregender* zu machen
 - Team 1: findet den Magneten
 - Team 2: findet **2 Finalpuzzleteile**
 - Team 3: findet Hinweis auf die nächste Aufgabe
