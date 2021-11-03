@@ -27,6 +27,7 @@ Wenn's gut läuft hat sich auch jede einen Superheldinnen Namen gegeben.
 Ein Komplize wirft einen Stein mit einem Zettel auf die Terasse.
 Darauf ist eine Nachricht (gezeichnet) den Fernseher einzuschalten, auf der Rückseite ist ein **Bild aus einem Kinderbuch mit einem Wohnzimmer**.
 Der Fernseher wird eingeschaltet...es startet eine Sondersendung der Tagesschau...
+![Tagesschau Sondersendung](/media/Tagesschau-Background_KBS.png)
 **Jan Hofer:**
 > Guten Tag meine Damen und Herren und Willkommen zu einer Sonderausgabe der Tagesschau.
 > Der stadtbekannte Bösewicht "Tingel Tangel John" ist der Polizei entkommen. Tingel Tangel John ist bekannt dafür, dass er es nicht leiden kann, wenn andere Leute Spaß haben. 
