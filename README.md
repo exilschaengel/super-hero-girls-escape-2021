@@ -6,6 +6,37 @@ Die Teilnehmerinnen sind 6-7 Jahre alt und gehen in die 1. Klasse.
 Die Escape-Room-Aufgaben sind hauptsächlich analog.
 Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und darunter nochmal aufgeführt (TODO).
 
+## Vorbereitungen / Basteln
+- [ ] Finalpuzzle
+- [ ] Aufgabe 1: Bild auswählen für Stein und 1. Tipp
+- [ ] Aufgabe 1: Backpapier mit Kreisen
+- [ ] Aufgabe 1: 3 Korken beschriften 
+- [ ] Aufgabe 2: Puzzle mit Entsperrmuster für Handy
+- [ ] Aufgabe 3: Handy mit Fotos von Versteckorten
+- [ ] Aufgabe 4: Magnet
+- [ ] Aufgabe 4: Hinweis auf Aufgabe 5
+- [ ] Aufgabe 5: Becher mit seitlichem Loch 
+- [ ] Aufgabe 5: Post it Auf der Reise nach Jerusalem findet ihr heraus wer die passende Superkraft für die nächste Aufgabe hat.”
+- [ ] Aufgabe 7: Box zum Aufschneiden
+- [ ] Aufgabe 7: Matheaufgabe Anzahl Telefone
+- [ ] Aufgabe 7: Matheaufgabe rechnen
+- [ ] Aufgabe 8: Umschlag mit Schlüssel und Hinweis "der nächste Ort ist alt, dunkel und schwer"
+- [ ] Aufgabe 9: Enigma
+- [ ] Aufgabe 10: Handy mit Videobotschaft von John (gleiches Entsperrmuster wie anders Handy)
+
+## am Tag selbst
+- [ ] Intro: Stein bereit legen
+- [ ] Aufgabe 1: Umschlag hinter TV
+- [ ] Aufgabe 2: Luftballons mit Entsperrmuster befüllen aufhängen und beschriften
+- [ ] Aufgabe 4: Puzzleteile verstecken
+- [ ] Aufgabe 4: Hinweis auf Aufgabe 5 verstecken
+- [ ] Aufgabe 4: Magnet verstecken
+- [ ] Aufgabe 3: Handy mit Fotos platzieren
+- [ ] Aufgabe 5: Becker mit farbiger Flüssikeit füllen
+- [ ] Aufgabe 6: verschlossene Schere + Puzzleteile unterm Stuhl platzieren + Stuhl markieren
+- [ ] Aufgabe 7: Aufschnittbox in Küche oder Flur platzieren
+- [ ] Aufgabe 8: Umschlag mit Schlüssel und Hinweis in Orangenbaumtopf verstecken
+- [ ] Aufgabe 10: "Tresor" mit Handy und Langeweiletrunk füllen und im Schrank platzieren
 
 # Ablauf
 
