@@ -13,14 +13,14 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 - [x] Aufgabe 1: 3 Korken beschriften 
 - [ ] Aufgabe 2: Puzzle mit Entsperrmuster für Handy
 - [ ] Aufgabe 3: Handy mit Fotos von Versteckorten
-- [ ] Aufgabe 4: Magnet
+- [x] Aufgabe 4: Magnet
 - [ ] Aufgabe 4: Hinweis auf Aufgabe 5
-- [ ] Aufgabe 5: Becher mit seitlichem Loch 
-- [ ] Aufgabe 5: Post it Auf der Reise nach Jerusalem findet ihr heraus wer die passende Superkraft für die nächste Aufgabe hat.”
+- [x] Aufgabe 5: Becher mit seitlichem Loch 
+- [x] Aufgabe 5: Post it Auf der Reise nach Jerusalem findet ihr heraus wer die passende Superkraft für die nächste Aufgabe hat.”
 - [x] Aufgabe 7: Box zum Aufschneiden
 - [x] Aufgabe 7: Matheaufgabe Anzahl Telefone
 - [x] Aufgabe 7: Matheaufgabe rechnen
-- [ ] Aufgabe 8: Umschlag mit Schlüssel und Hinweis "der nächste Ort ist alt, dunkel und schwer"
+- [x] Aufgabe 8: Umschlag mit Schlüssel und Hinweis "der nächste Ort ist alt, dunkel und schwer"
 - [x] Aufgabe 9: Enigma
 - [ ] Aufgabe 10: Handy mit Videobotschaft von John (gleiches Entsperrmuster wie anders Handy)
 
