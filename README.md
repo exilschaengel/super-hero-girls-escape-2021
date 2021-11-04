@@ -48,8 +48,8 @@ https://youtu.be/gt5CaUnACpE
 ...läuft aus dem Bild...
 
 **Jan Hofer:**
-> Nach der Einschätzung von Experten kann uns jetzt nur noch das Team der Superhelden aus der Poststraße vor diesem schrecklichen Schurken retten
-> Er hat seinen Langeweiletrank sicher extrrrreeem gut versteckt.
+> Nach der Einschätzung von Experten kann der Langeweiletrank nur durch die Berührung mit Kinderhänden neutralisiert werden.
+> Wir können davon ausgehen, dass er seinen Langeweiletrank  extrrrreeem gut versteckt hat. Es kann uns jetzt nur noch das Team der Superheldinnen aus der Poststraße vor diesem schrecklichen Schurken retten. 
 > (zeigt in die Kamera) Eure Aufgabe ist es nun diesen Trank zu finden und unschädlich zu machen!
 > (bekommt einen Zettel gereicht) und...und...hier steht, dass ihr den ersten Hinweis auf meinem Rücken findet?!
 > Viel Erfolg!
