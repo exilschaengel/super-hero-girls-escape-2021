@@ -10,18 +10,18 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 - [ ] Finalpuzzle
 - [ ] Aufgabe 1: Bild auswählen für Stein und 1. Tipp
 - [ ] Aufgabe 1: Backpapier mit Kreisen
-- [ ] Aufgabe 1: 3 Korken beschriften 
+- [x] Aufgabe 1: 3 Korken beschriften 
 - [ ] Aufgabe 2: Puzzle mit Entsperrmuster für Handy
 - [ ] Aufgabe 3: Handy mit Fotos von Versteckorten
 - [ ] Aufgabe 4: Magnet
 - [ ] Aufgabe 4: Hinweis auf Aufgabe 5
 - [ ] Aufgabe 5: Becher mit seitlichem Loch 
 - [ ] Aufgabe 5: Post it Auf der Reise nach Jerusalem findet ihr heraus wer die passende Superkraft für die nächste Aufgabe hat.”
-- [ ] Aufgabe 7: Box zum Aufschneiden
-- [ ] Aufgabe 7: Matheaufgabe Anzahl Telefone
-- [ ] Aufgabe 7: Matheaufgabe rechnen
+- [x] Aufgabe 7: Box zum Aufschneiden
+- [x] Aufgabe 7: Matheaufgabe Anzahl Telefone
+- [x] Aufgabe 7: Matheaufgabe rechnen
 - [ ] Aufgabe 8: Umschlag mit Schlüssel und Hinweis "der nächste Ort ist alt, dunkel und schwer"
-- [ ] Aufgabe 9: Enigma
+- [x] Aufgabe 9: Enigma
 - [ ] Aufgabe 10: Handy mit Videobotschaft von John (gleiches Entsperrmuster wie anders Handy)
 
 ## am Tag selbst
