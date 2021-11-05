@@ -7,14 +7,14 @@ Die Escape-Room-Aufgaben sind hauptsächlich analog.
 Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und darunter nochmal aufgeführt (TODO).
 
 ## Vorbereitungen / Basteln
-- [ ] Finalpuzzle
+- [x] Finalpuzzle
 - [ ] Aufgabe 1: Bild auswählen für Stein und 1. Tipp
 - [ ] Aufgabe 1: Backpapier mit Kreisen
 - [x] Aufgabe 1: 3 Korken beschriften 
 - [x] Aufgabe 2: Puzzle mit Entsperrmuster für Handy
-- [ ] Aufgabe 3: Handy mit Fotos von Versteckorten
+- [x] Aufgabe 3: Handy mit Fotos von Versteckorten
 - [x] Aufgabe 4: Magnet
-- [ ] Aufgabe 4: Hinweis auf Aufgabe 5
+- [x] Aufgabe 4: Hinweis auf Aufgabe 5
 - [x] Aufgabe 5: Becher mit seitlichem Loch 
 - [x] Aufgabe 5: Post it Auf der Reise nach Jerusalem findet ihr heraus wer die passende Superkraft für die nächste Aufgabe hat.”
 - [x] Aufgabe 7: Box zum Aufschneiden
@@ -28,15 +28,15 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 - [ ] Intro: Stein bereit legen
 - [ ] Aufgabe 1: Umschlag hinter TV
 - [ ] Aufgabe 2: Luftballons mit Entsperrmuster befüllen aufhängen und beschriften
-- [ ] Aufgabe 4: Puzzleteile verstecken
-- [ ] Aufgabe 4: Hinweis auf Aufgabe 5 verstecken
-- [ ] Aufgabe 4: Magnet verstecken
+- [x] Aufgabe 4: Puzzleteile verstecken
+- [x] Aufgabe 4: Hinweis auf Aufgabe 5 verstecken
+- [x] Aufgabe 4: Magnet verstecken
 - [ ] Aufgabe 3: Handy mit Fotos platzieren
-- [ ] Aufgabe 5: Becker mit farbiger Flüssikeit füllen
+- [ ] Aufgabe 5: Becher mit farbiger Flüssikeit füllen
 - [ ] Aufgabe 6: verschlossene Schere + Puzzleteile unterm Stuhl platzieren + Stuhl markieren
 - [ ] Aufgabe 7: Aufschnittbox in Küche oder Flur platzieren
-- [ ] Aufgabe 8: Umschlag mit Schlüssel und Hinweis in Orangenbaumtopf verstecken
-- [ ] Aufgabe 10: "Tresor" mit Handy und Langeweiletrunk füllen und im Schrank platzieren
+- [x] Aufgabe 8: Umschlag mit Schlüssel und Hinweis in Orangenbaumtopf verstecken
+- [x] Aufgabe 10: "Tresor" mit Handy und Langeweiletrunk füllen und im Schrank platzieren
 
 # Ablauf
 
@@ -117,7 +117,8 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 - Team 1: findet den Magneten
 - Team 2: findet **2 Finalpuzzleteile**
 - Team 3: findet Hinweis auf die nächste Aufgabe
-  - TBD
+  - "John hat den Grundstoff für die Herstellung des Langeweiletranks verloren, findet ihn bevor er es findet."+
+  - 
 
 ## Aufgabe 5: Schlüssel mit Magnet aus Glas holen
 - Aufschrift: Biohazard und ACHTUNG ÄTZEND!!!
