@@ -157,11 +157,14 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 - Anruf auf der Nummer
 > Och Menno, ihr seid ja gar nicht so doof wie ich gedacht habe. Ihr habt sogar Johns superaffenhupentolle Verschlüsselungsmaschine geknackt. Na gut, dann gebe ich euch jetzt noch die letzte Zahl für den Code, mit dem ihr den Tresor öffnen könnt. Das letzte Puzzleteil hab ich nämlich noch bei mir. Habt ihr was zum schreiben? Achtung, die letzte Zahl ist 5! Die letzte Zahl ist 5! Jetzt bin ich aber raus und kann euch nicht mehr helfen. Ihr könnt ja mal Alexa fragen was ihr mit dem Code machen sollt.
 - Fragt Alexa, was ihr mit dem Code machen sollt (Alexa, was sollen wir mit dem Code machen? | Alexa, was sollen wir mit den Zahlen machen)
+Alexa antwortet
+> Herzlichen Glückwunsch! Wenn ihr es bis hier hin geschafft habt, dann seid ihr richtige Superheldinnen! Das müsste der Code für den Tresor sein. Ein Tresor ist oft in einen Schrank eingebaut. Viel Erfolg bei der Suche.
+> Oh mein Gott, ich glaube ihr habt den Alarm ausgelöst! ihr müsst euch beeilen!
+Alexa löst den Skill "roten Alarm" aus, um den Druck im Finale noch etwas zu erhöhen.
 
 ## Aufgabe 10: Tresor öffnen - Gift neutralisieren
 - schwarzer Handgepäck-Koffer mit Zahlenschloss dient als Tresor
 - versteckt im Garderobenschrank
 - es liegt ein Handy mit dabei mit einer Videobotschaft von John drauf 
-- ODER eine SMS aufs Festnetz, die dann vorgelesen wird
 > So ein Mist, ihr habt das Langeweilegift gefunden. Jetzt müsst ihr es aber noch neutralisieren, in dem ihr es alle ein mal anfasst! Und bitte bitte lacht am Montag nicht wieder so laut auf dem Schulhof ich halte das nicht aus...buhuhuuu....
 
