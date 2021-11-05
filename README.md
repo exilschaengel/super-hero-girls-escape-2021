@@ -11,7 +11,7 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 - [ ] Aufgabe 1: Bild auswählen für Stein und 1. Tipp
 - [ ] Aufgabe 1: Backpapier mit Kreisen
 - [x] Aufgabe 1: 3 Korken beschriften 
-- [ ] Aufgabe 2: Puzzle mit Entsperrmuster für Handy
+- [x] Aufgabe 2: Puzzle mit Entsperrmuster für Handy
 - [ ] Aufgabe 3: Handy mit Fotos von Versteckorten
 - [x] Aufgabe 4: Magnet
 - [ ] Aufgabe 4: Hinweis auf Aufgabe 5
@@ -22,7 +22,7 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 - [x] Aufgabe 7: Matheaufgabe rechnen
 - [x] Aufgabe 8: Umschlag mit Schlüssel und Hinweis "der nächste Ort ist alt, dunkel und schwer"
 - [x] Aufgabe 9: Enigma
-- [ ] Aufgabe 10: Handy mit Videobotschaft von John (gleiches Entsperrmuster wie anders Handy)
+- [x] Aufgabe 10: Handy mit Videobotschaft von John (gleiches Entsperrmuster wie anders Handy)
 
 ## am Tag selbst
 - [ ] Intro: Stein bereit legen
