@@ -8,8 +8,8 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 
 ## Vorbereitungen / Basteln
 - [x] Finalpuzzle
-- [ ] Aufgabe 1: Bild auswählen für Stein und 1. Tipp
-- [ ] Aufgabe 1: Backpapier mit Kreisen
+- [x] Aufgabe 1: Bild auswählen für Stein und 1. Tipp
+- [x] Aufgabe 1: Backpapier mit Kreisen
 - [x] Aufgabe 1: 3 Korken beschriften 
 - [x] Aufgabe 2: Puzzle mit Entsperrmuster für Handy
 - [x] Aufgabe 3: Handy mit Fotos von Versteckorten
@@ -26,8 +26,8 @@ Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und 
 
 ## am Tag selbst
 - [ ] Intro: Stein bereit legen
-- [ ] Aufgabe 1: Umschlag hinter TV
-- [ ] Aufgabe 2: Luftballons mit Entsperrmuster befüllen aufhängen und beschriften
+- [x] Aufgabe 1: Umschlag hinter TV
+- [x] Aufgabe 2: Luftballons mit Entsperrmuster befüllen aufhängen und beschriften
 - [x] Aufgabe 4: Puzzleteile verstecken
 - [x] Aufgabe 4: Hinweis auf Aufgabe 5 verstecken
 - [x] Aufgabe 4: Magnet verstecken
