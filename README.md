@@ -172,7 +172,7 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
     - Rechenaufgaben führen zu Telefonnummer
 
 *Was könnte die Zahl bedeuten? ;-) --> Telefonnummer, die rufen wir jetzt an*
-Die Nummer ist eine unserer Telefonnummern, die ich in der Fritzbox mit einer Anrufbeantworteransage (Text to speech als mp3, https://ttsfree.com/text-to-speech/german) hinterlegt habe:
+Die Nummer ist eine unserer Telefonnummern, die ich in der Fritzbox mit einer Anrufbeantworteransage (Text to speech als mp3, https://ttsfree.com/text-to-speech/german) hinterlegt habe (https://github.com/exilschaengel/super-hero-girls-escape-2021/blob/main/media/TelefonNachricht1.mp3):
 > Hallo ihr kleinen möchtegern Superheldinnen! Hier ist die Laborassistentin von Tingl Tangl John. Leider habt ihr die falsche Nummer gewählt. Die richtige Nummer findet ihr, wenn ihr euch auf die Suche nach einem orangenen Obst macht. Aber wahrscheinlich seid ihr ja gar keine Superheldinnen und kommt nicht auf die Lösung des Rätsels. Und damit werden John und ich bald die einzigen sein, die noch was zu lachen haben. Hahahahahahah Hohohohohhoooo Gniiihihihihihi 
 
 ![Bild](/images/13 Rechnen.jpg)
@@ -189,7 +189,7 @@ Die Nummer ist eine unserer Telefonnummern, die ich in der Fritzbox mit einer An
 - und eine "Enigma Verschlüsselungsmaschine"
   - Lösungssatz:    Maila Lina 7
   - Telefonnummer:  026301234567
-- Anruf auf der Nummer
+- Anruf auf der Nummer (https://github.com/exilschaengel/super-hero-girls-escape-2021/blob/main/media/TelefonNachricht2.mp3)
 > Och Menno, ihr seid ja gar nicht so doof wie ich gedacht habe. Ihr habt sogar Johns superaffenhupentolle Verschlüsselungsmaschine geknackt. Na gut, dann gebe ich euch jetzt noch die letzte Zahl für den Code, mit dem ihr den Tresor öffnen könnt. Das letzte Puzzleteil hab ich nämlich noch bei mir. Habt ihr was zum schreiben? Achtung, die letzte Zahl ist 5! Die letzte Zahl ist 5! Jetzt bin ich aber raus und kann euch nicht mehr helfen. Ihr könnt ja mal Alexa fragen was ihr mit dem Code machen sollt.
 - Fragt Alexa, was ihr mit dem Code machen sollt (Alexa, was sollen wir mit dem Code machen? | Alexa, was sollen wir mit den Zahlen machen)
 Alexa antwortet (=programmierte Routine)
