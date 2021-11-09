@@ -100,6 +100,11 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 
 *Wo habt ihr was gesehen wo das auch drauf steht?*
 
+![Bild](/images/1_Karte.jpg)
+![Bild](/images/2_Spieße.jpg)
+![Bild](/images/3_Versteck.jpg)
+![Bild](/images/4_Versteck.jpg)
+
 ## Aufgabe 2: Luftballons kaputt machen 
 - es gibt 3 mit Konfetti gefüllte Luftballons, die zwischen anden Ballons an der Decke hängen. Auf denen steht 
   - Maila
@@ -110,11 +115,20 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 
 *Was könnte das sein?*
 
+![Bild](/images/5_Konfetti.jpg)
+
+
 ## Aufgabe 3: Handy entsperren
 - die Kinder dürfen jeden Fragen was das sein könnte
 - sie müssen das passende Handy zum entsperren finden --> es liegt eins unterm Fernseher
 - ist das Handy entsperrt, dann sind 3 Fotos zu sehen, die Hinweise auf die nächsten Verstecke geben
 - totale Nahaufnahmen von Schranktür, Klavierpedal, Wasserhahn Spielküche
+
+![Bild](/images/6_Handy.jpg)
+![Bild](/images/7_Versteck.jpg)
+![Bild](/images/8_Versteck.jpg)
+![Bild](/images/9_Versteck.jpg)
+
 
 ## Aufgabe 4: Heldinnen finden wo die Fotos gemacht wurden
 - Team 1: findet den Magneten
@@ -132,6 +146,10 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 
 *Schüssel erst mal einstecken*
 
+![Bild](/images/10_Flüssigkeit.jpg)
+
+
+
 ## Aufgabe 6: Reise nach Jerusalem
 - Reise nach Jerusalem wird gespielt
 - unter letztem Stuhl ist eine mit einem Schloss verschlossene Scheere befestigt
@@ -141,6 +159,9 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 *Was macht man mit einer Scheere? Was muss denn aufgeschnitten werden? Kinder müssen suchen*
 
 - Box zum Aufschneiden wird irgendwo platziert
+
+![Bild](/images/11_Jerusalem.jpg)
+![Bild](/images/12_Aufschnitt.jpg)
 
 ## Aufgabe 7: Telefonnummernrätsel
 - mit Scheere wird die Box aufgeschnitten 
@@ -153,6 +174,8 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 *Was könnte die Zahl bedeuten? ;-) --> Telefonnummer, die rufen wir jetzt an*
 Die Nummer ist eine unserer Telefonnummern, die ich in der Fritzbox mit einer Anrufbeantworteransage (Text to speech als mp3, https://ttsfree.com/text-to-speech/german) hinterlegt habe:
 > Hallo ihr kleinen möchtegern Superheldinnen! Hier ist die Laborassistentin von Tingl Tangl John. Leider habt ihr die falsche Nummer gewählt. Die richtige Nummer findet ihr, wenn ihr euch auf die Suche nach einem orangenen Obst macht. Aber wahrscheinlich seid ihr ja gar keine Superheldinnen und kommt nicht auf die Lösung des Rätsels. Und damit werden John und ich bald die einzigen sein, die noch was zu lachen haben. Hahahahahahah Hohohohohhoooo Gniiihihihihihi 
+
+![Bild](/images/13 Rechnen.jpg)
 
 
 ## Aufgabe 8 Finde das orangene Obst
@@ -174,7 +197,18 @@ Alexa antwortet (=programmierte Routine)
 > Oh mein Gott, ich glaube ihr habt den Alarm ausgelöst! ihr müsst euch beeilen!
 Alexa löst den Skill "roten Alarm" aus, um den Druck im Finale noch etwas zu erhöhen. Im Wohnzimmer ertöhnt roter Alarm aus Star Trek
 
+![Bild](/images/14_Truhe.jpg)
+![Bild](/images/15_Enigma.jpg)
+![Bild](/images/16_Enigma.jpg)
+![Bild](/images/17_Enigma.jpg)
+![Bild](/images/18_Puzzle.jpg)
+
+
 ## Aufgabe 10: Tresor öffnen - Gift neutralisieren
 - schwarzer Handgepäck-Koffer mit Zahlenschloss dient als Tresor
 - versteckt im Garderobenschrank
 - Kinder werden dran erinnert, dass sie den Langeweiletrank berühren müssen, um es zu neutralisieren....was eine Sauerei :-)
+
+
+
+![Bild](/images/19_Giftfass.jpg)
