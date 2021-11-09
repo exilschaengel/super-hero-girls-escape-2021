@@ -130,9 +130,12 @@ Abschlussbild: Tingel Tangel John macht Grimasse mit Giftfass vor der Schule
 - Auf der Rückseite gibt es eine weitere Information
   - "Auf der Reise nach Jerusalem  findet ihr heraus wer die passende Superkraft für die nächste Aufgabe hat.”
 
+*Schüssel erst mal einstecken*
+
 ## Aufgabe 6: Reise nach Jerusalem
 - Reise nach Jerusalem wird gespielt
 - unter letztem Stuhl ist eine mit einem Schloss verschlossene Scheere befestigt
+- jetzt sollte klar sein wofür der Schlüssel gedacht ist
 - und ein Umschlag mit **2 Finalpuzzleteile**
 
 *Was macht man mit einer Scheere? Was muss denn aufgeschnitten werden? Kinder müssen suchen*
