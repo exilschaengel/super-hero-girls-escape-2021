@@ -6,6 +6,9 @@ Die Teilnehmerinnen sind 6-7 Jahre alt und gehen in die 1. Klasse.
 Die Escape-Room-Aufgaben sind hauptsächlich analog.
 Die benötigten Materialien, die zur Lösung benötigt finden man im Ablauf und darunter nochmal aufgeführt (TODO).
 
+Großer Dank an @sustainablepace https://github.com/sustainablepace/escape-room-2021 für die Anreicherung der Idee mit der Fritzbox!
+Weitere Rätsel inspiriert von https://teachingideas.ca/2020/05/17/escape-room-2/ 
+
 ## Vorbereitungen / Basteln
 - [x] Finalpuzzle
 - [x] Aufgabe 1: Bild auswählen für Stein und 1. Tipp
